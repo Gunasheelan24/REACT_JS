@@ -1,0 +1,13 @@
+#bg_One {
+    height: 100vh !important;
+    background-color: #0A1045 !important;
+}
+
+.text-one {
+    color: #FFFFFC !important;
+}
+
+.text-two {
+    color: #CDDDDD !important;
+    font-size: larger;
+}

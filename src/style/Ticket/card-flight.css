@@ -1,0 +1,11 @@
+.remove-height { 
+    margin-bottom: -14px;
+}
+.bg-all { 
+  background: #162C41;
+  overflow: hidden !important;
+  height: 100dvh !important;
+}
+.bg-ok { 
+  background-color: #13293D;
+}

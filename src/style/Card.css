@@ -1,0 +1,48 @@
+.card-year { 
+    margin-bottom: -7px;
+    color: rgb(243, 242, 242) !important;
+}
+ 
+.bg-full-color {
+    padding: 10px;
+    background-color: #0A100D;
+}
+
+.hover-effect:hover { 
+    transform: scale(1.03) !important;
+    transition-duration: 1s;
+    border-radius: 10px;
+    transform-origin: right;
+    overflow: hidden;
+}
+
+.hover-effect-right:hover { 
+    transform: scale(1.03) !important;
+    transition-duration: 1s;
+    border-radius: 10px;
+    transform-origin: left;
+    overflow: hidden;
+}
+
+.img-effect-center:hover {
+    transform: scale(1.03) !important;
+    transition-duration: 1s;
+    border-radius: 10px;
+    transform-origin: top;
+    overflow: hidden;
+}
+
+.button-effect { 
+    font-size: larger;
+    padding: 5px;
+}
+
+.button-effect:hover { 
+    color: aliceblue !important;
+    transition-duration: 0.5s;
+    transform: translateY(-5px);
+}
+
+.button-effect:active {
+    transform: translateY(5px);
+}
